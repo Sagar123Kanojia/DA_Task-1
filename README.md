@@ -45,7 +45,7 @@ This task was part of a 15-day internship project from **Elevate Labs** focused 
   - Use **underscores** instead of spaces (e.g., `Year_Birth`, `Marital_Status`)
   - Manually edited Row 1 (column headers)
 
-### ✅ 6. Verified Data Types
+### 6. Verified Data Types
 - Ensured numeric fields like `Age`, `Income` were formatted as **Number**.
 - Verified that `Dt_Customer` was formatted as **Date**.
 - Used alignment (right = number, left = text) and **ISNUMBER()** to check types.
